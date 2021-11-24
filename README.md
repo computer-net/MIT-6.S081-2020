@@ -5,7 +5,7 @@
 
 - [x] Lab1: [Unix utilities](./lab1-unix-utilities)
 - [x] Lab2: [System calls](./lab2-syscall)
-- [ ] Lab3: Page table
+- [x] Lab3: [Page table](./lab3-pgtbl)
 - [ ] Lab4: Trap
 - [ ] Lab5: Lazy allocation
 - [ ] Lab6: Copy-on-write fork
