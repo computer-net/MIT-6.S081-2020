@@ -107,5 +107,4 @@ struct proc {
   uint64 handler;
   int ticks;
   struct trapframe *pretrapframe;
-  int handlerrunning;
 };

@@ -117,8 +117,8 @@ uint64
 sys_sigreturn(void)
 {
   struct proc *p = myproc();
-  memmove(p->trapframe, p->pretrapframe, sizeof(struct trapframe));
+  *p->trapframe = *p->pretrapframe;
+  //memmove(p->trapframe, p->pretrapframe, sizeof(struct trapframe));
   p->ticks = 0;
-  p->handlerrunning = 0;
   return 0;
 }

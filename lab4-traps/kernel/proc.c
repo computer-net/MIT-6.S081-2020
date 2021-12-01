@@ -133,7 +133,6 @@ found:
     release(&p->lock);
 	return 0;
   }
-  p->handlerrunning = 0;
 
   return p;
 }
@@ -163,7 +162,6 @@ freeproc(struct proc *p)
   p->ticks = 0;
   if(p->pretrapframe)
     kfree((void*)p->pretrapframe);
-  p->handlerrunning = 0;
 
   p->state = UNUSED;
 }
