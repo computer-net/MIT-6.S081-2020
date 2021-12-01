@@ -1,0 +1,6 @@
+A1. a0-a7, a2.
+A2. nowhere, compiler optimization by inline function.
+A3. 0x0000000000000630 (ra=pc=0x30, 1536(ra)=0x0000000000000630).
+A4. 0x38(ra=pc+4).
+A5. He110 World, 0x726c6400, no change for 57616.
+A6. print the value of a2 register.

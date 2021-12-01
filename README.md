@@ -6,7 +6,7 @@
 - [x] Lab1: [Unix utilities](./lab1-unix-utilities)
 - [x] Lab2: [System calls](./lab2-syscall)
 - [x] Lab3: [Page table](./lab3-pgtbl)
-- [ ] Lab4: Trap
+- [x] Lab4: [Trap](./lab4-traps)
 - [ ] Lab5: Lazy allocation
 - [ ] Lab6: Copy-on-write fork
 - [ ] Lab7: Multi-threading
