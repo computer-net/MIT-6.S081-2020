@@ -6,7 +6,7 @@
 - [x] Lab1: [Unix utilities](./lab1-unix-utilities)
 - [x] Lab2: [System calls](./lab2-syscall)
 - [x] Lab3: [Page table](./lab3-pgtbl)
-- [x] Lab4: [Trap](./lab4-traps)
+- [x] Lab4: [Traps](./lab4-traps)
 - [ ] Lab5: Lazy allocation
 - [ ] Lab6: Copy-on-write fork
 - [ ] Lab7: Multi-threading
@@ -14,4 +14,8 @@
 - [ ] Lab9: File system
 - [ ] Lab10: Mmap
 - [ ] Lab11: Network stack
+
+参考内容：
+
+- [肖宏辉的课程翻译 github](https://github.com/huihongxiao/MIT6.S081)
 
