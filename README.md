@@ -7,7 +7,7 @@
 - [x] Lab2: [System calls](./lab2-syscall)
 - [x] Lab3: [Page table](./lab3-pgtbl)
 - [x] Lab4: [Traps](./lab4-traps)
-- [ ] Lab5: Lazy allocation
+- [x] Lab5: [Lazy allocation](./lab5-lazy)
 - [ ] Lab6: Copy-on-write fork
 - [ ] Lab7: Multi-threading
 - [ ] Lab8: Parallelism/locking
