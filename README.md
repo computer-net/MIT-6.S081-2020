@@ -9,7 +9,7 @@
 - [x] Lab4: [Traps](./lab4-traps)
 - [x] Lab5: [Lazy allocation](./lab5-lazy)
 - [x] Lab6: [Copy-on-write fork](./lab6-cow)
-- [ ] Lab7: Multi-threading
+- [x] Lab7: [Multi-threading](./lab7-thread)
 - [ ] Lab8: Parallelism/locking
 - [ ] Lab9: File system
 - [ ] Lab10: Mmap
