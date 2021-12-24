@@ -10,7 +10,7 @@
 - [x] Lab5: [Lazy allocation](./lab5-lazy)
 - [x] Lab6: [Copy-on-write fork](./lab6-cow)
 - [x] Lab7: [Multi-threading](./lab7-thread)
-- [ ] Lab8: Parallelism/locking
+- [x] Lab8: [Parallelism/locking](./lab8-lock)
 - [ ] Lab9: File system
 - [ ] Lab10: Mmap
 - [ ] Lab11: Network stack
