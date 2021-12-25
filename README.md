@@ -18,4 +18,6 @@
 参考内容：
 
 - [肖宏辉的课程翻译 github](https://github.com/huihongxiao/MIT6.S081)
+- [Miigon 的 MIT6.S081 操作系统笔记](https://juejin.cn/column/7006016367988047909)
+- [知乎 炼金术士 的文章](https://www.zhihu.com/people/jin-zhen-hui-67/posts)
 
