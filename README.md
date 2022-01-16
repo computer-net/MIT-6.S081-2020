@@ -12,7 +12,7 @@
 - [x] Lab7: [Multi-threading](./lab7-thread)
 - [x] Lab8: [Parallelism/locking](./lab8-lock)
 - [x] Lab9: [File system](./lab9-fs)
-- [ ] Lab10: Mmap
+- [x] Lab10: [Mmap](./lab10-mmap)
 - [ ] Lab11: Network stack
 
 参考内容：
