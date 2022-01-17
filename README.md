@@ -13,7 +13,7 @@
 - [x] Lab8: [Parallelism/locking](./lab8-lock)
 - [x] Lab9: [File system](./lab9-fs)
 - [x] Lab10: [Mmap](./lab10-mmap)
-- [ ] Lab11: Network stack
+- [x] Lab11: [Network stack](./lab11-net)
 
 参考内容：
 
