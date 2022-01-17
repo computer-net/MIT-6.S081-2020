@@ -276,6 +276,6 @@ exit(int status){
 
 # 参考文章
 
- 1. [MIT 6.s081 xv6-lab10-mmap](https://www.zhihu.com/search?type=content&q=6.s081%20lab10)
+ 1. [MIT 6.s081 xv6-lab10-mmap](https://zhuanlan.zhihu.com/p/433986506)
  2. [MIT6.S081学习总结-lab10:mmap](https://blog.csdn.net/laplacebh/article/details/118608426)
 
